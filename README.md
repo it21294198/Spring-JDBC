@@ -1,4 +1,4 @@
-## [To Referenced Video](https://youtu.be/Px5sCzNWaIU?si=iUtgHYwiB60GLsOW)
+## [To Referenced Video Click Here](https://youtu.be/Px5sCzNWaIU?si=iUtgHYwiB60GLsOW)
 
 This project is just an example of CRUD usage in Spring Boot Using JDBC Drive with standerd file and folder structure based on Terminal App
 
