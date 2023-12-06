@@ -1,4 +1,6 @@
-## [To Referenced Video Click Here](https://youtu.be/Px5sCzNWaIU?si=iUtgHYwiB60GLsOW)
+## The use of Spring's JdbcTemplate in this code is a form of JDBC (Java Database Connectivity) template.
+
+### [To Referenced Video Click Here](https://youtu.be/Px5sCzNWaIU?si=iUtgHYwiB60GLsOW)
 
 This project is just an example of CRUD usage in Spring Boot Using JDBC Drive with standerd file and folder structure based on Terminal App
 
